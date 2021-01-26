@@ -5,7 +5,7 @@ description = "Runs embedded programs just like native ones"
 edition = "2018"
 keywords = ["knurling", "cargo-runner"]
 license = "MIT OR Apache-2.0"
-name = "probe-run"
+name = "probe-run-rp"
 readme = "README.md"
 repository = "https://github.com/knurling-rs/probe-run"
 # TODO(on 0.2.0) remove the "defmt" Cargo feature
